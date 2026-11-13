@@ -16,7 +16,7 @@
     "better-auth": "^1.6.31",
     "clsx": "^2.1.1",
     "drizzle-kit": "^0.31.11",
-    "drizzle-orm": "^0.38.4",
+    "drizzle-orm": "^0.45.2",
     "firebase": "^11.4.0",
     "lucide-react": "^1.16.0",
     "motion": "^12.4.7",
